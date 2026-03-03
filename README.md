@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="social-card.png" alt="CARTHAGO DELENDA EST" width="640">
+  <img src="site/social-card.png" alt="CARTHAGO DELENDA EST" width="640">
 </p>
 
 <h1 align="center">cargo delenda est</h1>
